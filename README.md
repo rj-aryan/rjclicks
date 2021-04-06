@@ -7,7 +7,7 @@
 -->
 
 ## **About Me:**
-<h2 align = "center"> Full Stack Web Developer • Java • C/C++ </h2>
+<h2 align = "center"> Photographer • Python • C/C++ </h2>
 
 
 ## **Github Streak:**
