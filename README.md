@@ -12,7 +12,7 @@
 
 ## **Github Streak:**
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=rjclicks&line_height=40&theme=dark">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=rjclicks&line_height=40&theme=default">
 </p>
 
 ---
@@ -21,8 +21,8 @@
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=rjclicks&hide=stars&show_icons=true&line_height=48&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjclicks&count_private=true&line_height=40&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=rjclicks&hide=stars&show_icons=true&line_height=48&theme=default">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjclicks&count_private=true&line_height=40&theme=default">
 
 </p>
 
